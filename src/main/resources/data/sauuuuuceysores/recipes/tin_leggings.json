@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+		"III",
+		"I I",
+		"I I"
+	],
+	
+	"key":
+	{
+		"I": { "item": "sauuuuuceysores:tin_ingot" }
+	},
+	
+	"result": { "item": "sauuuuuceysores:tin_leggings" }
+}

@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+		"B"
+	],
+	
+	"key":
+	{
+		"B": { "item": "sauuuuuceysores:tungsten_block" }
+	},
+	
+	"result": 
+	{ 
+		"item": "sauuuuuceysores:tungsten_ingot",
+		"count": 9
+	}
+}
