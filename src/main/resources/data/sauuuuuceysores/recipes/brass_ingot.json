@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+		"II",
+		"IJ"
+	],
+	
+	"key":
+	{
+		"I": { "item": "sauuuuuceysores:zinc_ingot" },
+		"J": { "item": "sauuuuuceysores:copper_ingot" }
+	},
+	
+	"result": { "item": "sauuuuuceysores:brass_ingot" }
+}

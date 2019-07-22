@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+		"III",
+		"III",
+		"III"
+	],
+	
+	"key":
+	{
+		"I": { "item": "sauuuuuceysores:cobalt_ingot" }
+	},
+	
+	"result": { "item": "sauuuuuceysores:cobalt_block" }
+}

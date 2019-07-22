@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+		"I I",
+		"I I"
+	],
+	
+	"key":
+	{
+		"I": { "item": "sauuuuuceysores:chain_links" }
+	},
+	
+	"result": { "item": "minecraft:chainmail_boots" }
+}

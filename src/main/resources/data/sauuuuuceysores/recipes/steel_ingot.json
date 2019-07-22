@@ -1,0 +1,18 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+		"II",
+		"TS"
+	],
+	
+	"key":
+	{
+		"I": { "item": "minecraft:iron_ingot" },
+		"T": { "item": "sauuuuuceysores:tungsten_ingot" },
+		"S": { "item": "sauuuuuceysores:silver_ingot" }
+	},
+	
+	"result": { "item": "sauuuuuceysores:steel_ingot" }
+}

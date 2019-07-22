@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+		"B"
+	],
+	
+	"key":
+	{
+		"B": { "item": "sauuuuuceysores:steel_block" }
+	},
+	
+	"result": 
+	{ 
+		"item": "sauuuuuceysores:steel_ingot",
+		"count": 9
+	}
+}

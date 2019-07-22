@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+		"I I",
+		"I I"
+	],
+	
+	"key":
+	{
+		"I": { "item": "sauuuuuceysores:cobalt_ingot" }
+	},
+	
+	"result": { "item": "sauuuuuceysores:cobalt_boots" }
+}

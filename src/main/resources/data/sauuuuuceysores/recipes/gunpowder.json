@@ -1,0 +1,18 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+		"AA",
+		"BC"
+	],
+	
+	"key":
+	{
+		"A": { "item": "sauuuuuceysores:saltpeter" },
+		"B": { "item": "minecraft:charcoal" },
+		"C": { "item": "sauuuuuceysores:sulfur_dust" }
+	},
+	
+	"result": { "item": "minecraft:gunpowder" }
+}

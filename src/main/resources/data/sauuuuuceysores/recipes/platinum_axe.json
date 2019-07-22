@@ -1,0 +1,18 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+		"II",
+		"IS",
+		" S"
+	],
+	
+	"key":
+	{
+		"I": { "item": "sauuuuuceysores:platinum_ingot" },
+		"S": { "item": "minecraft:stick" }
+	},
+	
+	"result": { "item": "sauuuuuceysores:platinum_axe" }
+}
