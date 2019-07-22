@@ -7,6 +7,10 @@ Sauuuuucey's Ores adds new materials and ores to the game, in a realistic-esque 
 * [Forge MDK v1.14.3-27.0.60]
 * [MCP Mappings v20190721-1.14.3]
 
+## Authors
+
+* Created by [Sauuuuucey](https://github.com/Sauuuuucey)
+
 ## Acknowledgments
 
 * Thanks to Cadiboo's [ExampleMod](https://github.com/Cadiboo/Example-Mod/tree/1.14.3/src/main/java/io/github/cadiboo/examplemod) and Choonster's [TestMod3](https://github.com/Choonster-Minecraft-Mods/TestMod3/tree/1.14.3) for their templates and code for making this possible and guiding me through better coding formats.
